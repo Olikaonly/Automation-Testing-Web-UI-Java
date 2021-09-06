@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a99601f-11b2-49fb-87cd-7214895b2595" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wwTmzUbC9RlNuA6KPLwYDvZSpY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/org/example/dz05" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eolgi_000\Desktop\Auto-Test-Web-UI-Java\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProfileChangesSiteFlampTest">
+    <configuration name="AuthorizationSiteFlamp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dz03.AuthorizationSiteFlamp" />
+      <module name="Automation-Testing-Web-UI-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dz03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorizationSiteFlampTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing-Web-UI-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dz05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.dz05" />
+      <option name="MAIN_CLASS_NAME" value="org.example.dz05.AuthorizationSiteFlampTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorizationSiteFlampTest.logMyProfileInToFlampTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing-Web-UI-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dz05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.dz05" />
+      <option name="MAIN_CLASS_NAME" value="org.example.dz05.AuthorizationSiteFlampTest" />
+      <option name="METHOD_NAME" value="logMyProfileInToFlampTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateCrmProjectExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing-Web-UI-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dz05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.dz05" />
+      <option name="MAIN_CLASS_NAME" value="org.example.dz05.CreateCrmProjectExampleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileChangesSiteFlampTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing-Web-UI-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dz05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.dz05" />
+      <option name="MAIN_CLASS_NAME" value="org.example.dz05.ProfileChangesSiteFlampTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProfileChangesSiteFlampTest" />
+        <item itemvalue="JUnit.AuthorizationSiteFlampTest" />
+        <item itemvalue="JUnit.AuthorizationSiteFlampTest.logMyProfileInToFlampTest" />
+        <item itemvalue="Application.AuthorizationSiteFlamp" />
+        <item itemvalue="JUnit.CreateCrmProjectExampleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a99601f-11b2-49fb-87cd-7214895b2595" name="Default Changelist" comment="" />
+      <created>1629368818467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629368818467</updated>
+      <workItem from="1629368821099" duration="4748000" />
+      <workItem from="1629384216175" duration="4560000" />
+      <workItem from="1629389058527" duration="2804000" />
+      <workItem from="1629395115538" duration="882000" />
+      <workItem from="1629452932849" duration="13300000" />
+      <workItem from="1629554331625" duration="12164000" />
+      <workItem from="1629623775397" duration="20081000" />
+      <workItem from="1629699559430" duration="361000" />
+      <workItem from="1629791882113" duration="10690000" />
+      <workItem from="1629822145691" duration="1203000" />
+      <workItem from="1629884472358" duration="7102000" />
+      <workItem from="1629960727957" duration="7953000" />
+      <workItem from="1630143301347" duration="11539000" />
+      <workItem from="1630309311249" duration="8676000" />
+      <workItem from="1630407427574" duration="6709000" />
+      <workItem from="1630486079836" duration="20068000" />
+      <workItem from="1630563415805" duration="11913000" />
+      <workItem from="1630576244124" duration="9912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
